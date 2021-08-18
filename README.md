@@ -10,10 +10,13 @@
 
 ### <a name="1">Общие</a>
 
-> _Russian Language Pack for Visual Studio Code_
->
->Полный руссификатор для vscode, но не поддерживает расширения.
 
+> #### [Полный руссификатор для vscode, но не поддерживает расширения](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru)
+>
+> _Russian Language Pack for Visual Studio Code_
+
+> #### [Переводчик](https://ms-ceintl.gallerycdn.vsassets.io/extensions/ms-ceintl/vscode-language-pack-ru/1.45.1/1588958744546/Microsoft.VisualStudio.Services.Icons.Default)
+>
 > _Vscode Google Translate_
 >
 >Выдели текст / ctrl + shift + p / команда: Translate selection / выбери язык.
